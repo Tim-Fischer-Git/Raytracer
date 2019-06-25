@@ -1,3 +1,3 @@
 # Raytracer
-Raytracher Berechnung und Darstellung. Geschrieben mit Python. 
-falls das ausführen nicht funktioniert anbei ein bild des Resultats
+Raytracer-Berechnung und -Darstellung. Geschrieben mit Python. 
+Falls das Ausführen nicht funktioniert finden Sie anbei ein Bild des Resultates.
